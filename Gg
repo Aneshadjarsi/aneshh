@@ -1,0 +1,4 @@
+From tkinter import *
+Root =Tk()
+Labl =Label(root,text='good morning',fg='green')
+Root.mainloop()
